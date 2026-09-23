@@ -4,7 +4,7 @@ Need help with Zad Al-Awwab? We're here for you.
 
 ## Contact
 
-📧 **Email:** aamir@fullstryx.com
+📧 **Email:** support@fullstryx.com
 
 We reply within 24–48 hours (Monday–Friday).
 
@@ -28,4 +28,4 @@ Open **Settings → Language** and pick from 10 supported languages: English, Ar
 Yes. Prayer times, Qibla, Quran, Duas, Azkar, Tasbih, and the 99 Names of Allah all work offline once your location is set.
 
 ### How do I report a bug or request a feature?
-Email us at **aamir@fullstryx.com** with a description of the issue, your device model, and iOS version. Screenshots help!
+Email us at **support@fullstryx.com** with a description of the issue, your device model, and iOS version. Screenshots help!
