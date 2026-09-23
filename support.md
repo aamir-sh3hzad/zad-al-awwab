@@ -29,3 +29,8 @@ Yes. Prayer times, Qibla, Quran, Duas, Azkar, Tasbih, and the 99 Names of Allah 
 
 ### How do I report a bug or request a feature?
 Email us at **support@fullstryx.com** with a description of the issue, your device model, and iOS version. Screenshots help!
+
+## Useful Links
+
+- [Back to Home](.)
+- [Privacy Policy](privacy)
