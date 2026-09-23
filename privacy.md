@@ -54,6 +54,6 @@ If we enable account, analytics, or subscription features in a future release, w
 
 Questions about this policy:
 
-📧 **aamir@fullstryx.com**
+📧 **support@fullstryx.com**
 
 FullStryx Solutions
